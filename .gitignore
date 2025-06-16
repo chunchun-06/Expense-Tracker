@@ -1,0 +1,8 @@
+# Ignore the database connection file
+connection.php
+
+# Optional: Ignore other common files
+*.log
+.env
+node_modules/
+vendor/
